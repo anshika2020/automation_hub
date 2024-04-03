@@ -1,7 +1,7 @@
 # sel-java-lite
 
 ## Why the framework was created?
-When working on personal projects, we may often come across situations where we need a quick start framework which implements the basic components but doesn't overdo things and make it too complex to customize. The idea behind _**selenium-java-lite**_ - a lightweight selenium-java based UI automation framework is to do exactly that. While it implements the necessary components for a personal project, it keeps it simple and flexible to be customized and re-configured as per needs.
+When working on personal projects, we may often come across situations where we need a quick start framework which implements the basic components but doesn't overdo things and make it too complex to customize. The idea behind _**automation_hub**_ - a lightweight selenium-java based UI/API automation framework is to do exactly that. While it implements the necessary components for a personal project, it keeps it simple and flexible to be customized and re-configured as per needs.
 
 
 ## How this is useful?
